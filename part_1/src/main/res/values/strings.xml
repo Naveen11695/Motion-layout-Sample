@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motion Layout Demo</string>
+    <string name="drag_me">Drag Me</string>
+    <string name="drag_motion_layout">Drag Motion Layout</string>
+</resources>

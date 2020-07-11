@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ttn.part_3.collapsible_toolbar.CollapsibleToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/motionLayout"
+    app:layoutDescription="@xml/collapsible_toolbar_scene"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="50dp"
+    android:fitsSystemWindows="false"
+    app:layout_scrollFlags="scroll|enterAlways|snap|exitUntilCollapsed">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/colorAccent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/header"/>
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:transformPivotX="0dp"
+        android:transformPivotY="0dp"
+        android:text="@string/motion_layout"
+        android:textColor="#FFF"
+        android:textSize="32sp" />
+
+</com.ttn.part_3.collapsible_toolbar.CollapsibleToolbar>

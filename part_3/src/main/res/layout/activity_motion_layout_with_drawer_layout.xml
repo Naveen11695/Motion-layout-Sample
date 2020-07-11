@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/motionLayout"
+    android:background="@color/colorPrimaryDark">
+
+    <include layout="@layout/activity_motion_layout_with_coordinator_layout"/>
+
+    <include layout="@layout/drawerlayout_menu"/>
+
+</androidx.drawerlayout.widget.DrawerLayout>
