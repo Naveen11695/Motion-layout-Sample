@@ -10,17 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".viewpager.MotionLayoutWithViewPager">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".appdrawer.MotionLayoutWithDrawerLayout">
 
         </activity>
         <activity android:name=".collapsible_toolbar.MotionLayoutWithCoordinatorLayout"></activity>
         <activity android:name=".KeyFrameSample">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
     </application>
 

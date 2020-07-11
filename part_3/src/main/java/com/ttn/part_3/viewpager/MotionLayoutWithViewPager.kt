@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.Window
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.get
 import androidx.viewpager.widget.ViewPager
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayout.OnTabSelectedListener
@@ -42,6 +43,7 @@ class MotionLayoutWithViewPager : AppCompatActivity(), ViewPager.OnPageChangeLis
 
         // setting-up current page
         viewpager.currentItem = 0
+
         viewpager.addOnPageChangeListener(this)
 
         header.animation_view.progress = 0.00F
