@@ -29,7 +29,7 @@ The second half (29 min in) of our presentation at Google I/O 2018 on What’s N
 
 > ## Part III
 
-<a href="https://imgur.com/eDoNr8r.gif"><img src="https://imgur.com/eDoNr8r.gif" width="250"></a>
+<a href="https://imgur.com/r6AnAFN.gif"><img src="https://imgur.com/r6AnAFN.gif" width="250"></a>
 <a href="https://imgur.com/9rg0VuW.gif"><img src="https://imgur.com/9rg0VuW.gif" width="250"></a>
 <a href="https://imgur.com/BMi4aLo.gif"><img src="https://imgur.com/BMi4aLo.gif" width="250"></a>
 
