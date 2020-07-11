@@ -15,20 +15,26 @@ The second half (29 min in) of our presentation at Google I/O 2018 on What’s N
 
 ## Screens
 > ## Part I
-<br>
+
 <a href="https://imgur.com/qtZliEw.gif"><img src="https://imgur.com/qtZliEw.gif" width="250"></a>
-<hr>
-> ## Part II
+
 <br>
+
+> ## Part II
+
 <a href="https://imgur.com/fPv0moP.gif"><img src="https://imgur.com/fPv0moP.gif" width="250"></a>
 <a href="https://imgur.com/ik4cfTR.gif"><img src="https://imgur.com/ik4cfTR.gif" width="250"></a>
-<hr>
-> ## Part III
+
 <br>
-<a href="https://imgur.com/eDoNr8r.gif"><img src="https://imgur.com/eDoNr8r.gif" width="150"></a>
+
+> ## Part III
+
+<a href="https://imgur.com/eDoNr8r.gif"><img src="https://imgur.com/eDoNr8r.gif" width="250"></a>
 <a href="https://imgur.com/9rg0VuW.gif"><img src="https://imgur.com/9rg0VuW.gif" width="250"></a>
 <a href="https://imgur.com/BMi4aLo.gif"><img src="https://imgur.com/BMi4aLo.gif" width="250"></a>
-<hr>
-> ## Part IV
+
 <br>
+
+> ## Part IV
+
 <a href="https://imgur.com/AR2AKcU.gif"><img src="https://imgur.com/AR2AKcU.gif" width="250"></a>
