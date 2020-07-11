@@ -14,20 +14,20 @@ The second half (29 min in) of our presentation at Google I/O 2018 on What’s N
 [![Watch the video](http://i3.ytimg.com/vi/ytZteMo4ETk/hqdefault.jpg)](https://youtu.be/ytZteMo4ETk)
 
 ## Screens
-> ## Part I
+> ## Part I - Self-contained MotionScene
 
 <a href="https://imgur.com/qtZliEw.gif"><img src="https://imgur.com/qtZliEw.gif" width="250"></a>
 
 <br>
 
-> ## Part II
+> ## Part II - ImageFilterView
 
 <a href="https://imgur.com/fPv0moP.gif"><img src="https://imgur.com/fPv0moP.gif" width="250"></a>
 <a href="https://imgur.com/ik4cfTR.gif"><img src="https://imgur.com/ik4cfTR.gif" width="250"></a>
 
 <br>
 
-> ## Part III
+> ## Part III - Using MotionLayout with CoordinatorLayout, DrawerLayout & ViewPager
 
 <a href="https://imgur.com/r6AnAFN.gif"><img src="https://imgur.com/r6AnAFN.gif" width="250"></a>
 <a href="https://imgur.com/9rg0VuW.gif"><img src="https://imgur.com/9rg0VuW.gif" width="250"></a>
@@ -35,6 +35,6 @@ The second half (29 min in) of our presentation at Google I/O 2018 on What’s N
 
 <br>
 
-> ## Part IV
+> ## Part IV - Keyframe position
 
 <a href="https://imgur.com/AR2AKcU.gif"><img src="https://imgur.com/AR2AKcU.gif" width="250"></a>
