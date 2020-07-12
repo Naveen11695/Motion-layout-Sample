@@ -1,5 +1,5 @@
 # Motion-layout-Sample
->Sample code for the newly added Motion layout in the Android.  MotionLayout is the new layout in Android, for creating amazing interactive animations in android. It’s a part of ConstraintLayout 2.0 library to help Android Developers manage motion and widget animation in their applications.
+>Sample code for the newly added Motion layout for the Android.  MotionLayout is the new layout in Android, for creating amazing interactive animations in android. It’s a part of ConstraintLayout 2.0 library to help Android Developers manage motion and widget animation in their applications.
 
 ## Source
 1. <a href="https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d">Introduction to MotionLayout (part I)</a>
