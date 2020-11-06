@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ttn.part_3">
+    package="com.local.part_3">
 
     <application
         android:allowBackup="true"
@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".viewpager.MotionLayoutWithViewPager">
+        <activity android:name="com.local.part_3.viewpager.MotionLayoutWithViewPager">
 
         </activity>
-        <activity android:name=".appdrawer.MotionLayoutWithDrawerLayout">
+        <activity android:name="com.local.part_3.appdrawer.MotionLayoutWithDrawerLayout">
 
         </activity>
-        <activity android:name=".collapsible_toolbar.MotionLayoutWithCoordinatorLayout"></activity>
-        <activity android:name=".KeyFrameSample">
+        <activity android:name="com.local.part_3.collapsible_toolbar.MotionLayoutWithCoordinatorLayout"></activity>
+        <activity android:name="com.local.part_3.KeyFrameSample">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
